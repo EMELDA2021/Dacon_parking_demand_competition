@@ -7,7 +7,7 @@
  > 제출결과: 120.4316(248위)
 
 
-### 0715_전처리_tree
+### 0715_전처리_decisiontree
  - DecisionTreeClassifier(max_depth=35,random_state=0)
  - test_size : 0.3
  - train_acc : 0.8901258470474347
