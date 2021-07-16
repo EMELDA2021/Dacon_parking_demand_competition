@@ -17,4 +17,11 @@
   > 제출결과: 205.03
 ![화면 캡처 2021-07-15 233924](https://user-images.githubusercontent.com/85726172/125807061-4e2974a2-b96a-4e52-bd68-6877c88bca1f.jpg)
 
-### 0716
+### 0716_전처리_randaomforest
+ - RandomForestClassifier(n_estimators=8, random_state=0)
+ - 학습용 세트 정확도 : 0.999
+ - 테스트 세트 정확도 : 0.971
+ - MAE=4.3
+  > 제출결과: 159.77
+ ![화면 캡처 2021-07-16 205116](https://user-images.githubusercontent.com/85726172/125943281-3a614132-a087-4627-851c-70d003165690.jpg)
+
