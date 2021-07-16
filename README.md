@@ -1,5 +1,8 @@
 
 # Dacon_parking_demand_competition
+ - 평가산식 : MAE(Mean Absolute Error)
+ - Public 평가 : 전체 Test 데이터 중 무작위 33% (50단지)
+ - Private 평가 : 전체 Test 데이터 중 나머지 67% (100단지)
 
 ### 0714_전처리_hw
 - PolynomialFeatures(degree=2)
