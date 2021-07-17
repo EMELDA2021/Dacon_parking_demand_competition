@@ -28,3 +28,19 @@
   > 제출결과: 159.77
  ![화면 캡처 2021-07-16 205116](https://user-images.githubusercontent.com/85726172/125943281-3a614132-a087-4627-851c-70d003165690.jpg)
 
+### 0717_전처리_ridge
+ - PolynomialFeatures(degree=2, random_state=99)
+ - 학습용 데이터 세트 점수 : 0.87
+ - 테스트 데이터 세트 점수 : 0.85
+ - model=Ridge(alpha=0.1)
+ - MAE=113.98
+  > 제출결과: 119.47(269위)
+  
+  cf)
+  - train_test_split:test_size=0.3,random_state=99
+  - PolynomialFeatures(degree=2, test_size=0.2, random_state=99)
+  - 학습용 데이터 세트 점수 : 0.87
+  - 테스트 데이터 세트 점수 : 0.84
+  - model=Ridge(alpha=0.00001)
+  - MAE=110.55
+   > 제출결과: 119.87
