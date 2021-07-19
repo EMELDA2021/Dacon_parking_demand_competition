@@ -49,3 +49,12 @@
   - 테스트 데이터 세트 점수 : 0.86
   - MAE=112.29
    > 제출결과: 120.62
+
+### 0719_전처리_gradient boosting
+ - GradientBoostingRegressor(max_depth=3,random_state=0)
+ - 학습(score) : 0.9549763891793135
+ - 테스트(score) : 0.9491070691390533
+ - MAE=72.43
+  > 제출결과: 112.75(207위)
+
+![grb](https://user-images.githubusercontent.com/85726172/126167908-975211d7-5e1c-4dd1-aa97-e89812ba0016.jpg)
