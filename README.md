@@ -58,3 +58,13 @@
   > 제출결과: 112.75(207위)
 
 ![grb](https://user-images.githubusercontent.com/85726172/126167908-975211d7-5e1c-4dd1-aa97-e89812ba0016.jpg)
+
+
+### 0720_baseline_XGBRegressor
+ - xgb.XGBRegressor()
+ - 학습(score) : 0.9998708422104113
+ - 테스트(score) : 0.99714967482368
+ - MAE=5.728410562757629
+  > 제출결과: 313.64
+ ![XGBR](https://user-images.githubusercontent.com/85726172/126356662-3a0c3088-0fd6-4181-bff2-7757f7ee4778.jpg)
+
