@@ -68,3 +68,11 @@
   > 제출결과: 313.64
  ![XGBR](https://user-images.githubusercontent.com/85726172/126356662-3a0c3088-0fd6-4181-bff2-7757f7ee4778.jpg)
 
+
+### 0721_dacon_baseline
+ - lgb.LGBMRegressor(**hyperparameters)
+ - 학습(score) : 0.9953972682541636
+ - 테스트(score) : 0.9933017202335905
+ - MAE=0.04446774678814055
+  > 제출결과: 109.56
+  ![lgb](https://user-images.githubusercontent.com/85726172/126425140-afe44847-5359-41b1-a24d-b562eff6e393.jpg)
